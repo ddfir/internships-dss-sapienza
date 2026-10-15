@@ -218,3 +218,6 @@ details > p:last-child, details > ul:last-child { margin-bottom: 16px; }
   .site-header, .pager, .skip { display: none; }
   body { background: #fff; color: #000; }
 }
+
+/* Language switch */
+nav a.lang { font-weight: 700; box-shadow: inset 0 0 0 1px currentColor; }

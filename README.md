@@ -46,7 +46,6 @@ Abbinamento suggerito (nomi dei file già usati nelle cartelle Drive):
 ## Da completare / da confermare
 
 - Contatto della Segreteria Didattica DSS e del Referente Tirocini (pagine Valida e Chi è chi).
-- Chi può scaricare e stampare la relazione finale da TSP, studente o solo ente (avviso nella pagina Valida; da confermare con l'Ufficio Tirocini).
 - Risposte alle sette domande in preparazione nella FAQ.
 - Link «Post Internship Day per gli studenti» (presente nella vecchia bozza, mai completato).
 - Screenshot mancanti: login, accreditamento enti, invio del registro presenze, questionario di valutazione e di monitoraggio, relazione finale, chiusura del tirocinio.
